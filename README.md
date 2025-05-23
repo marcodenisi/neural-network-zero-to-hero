@@ -20,3 +20,63 @@ You can find the official YouTube playlist here:
 ├── data/                  # Toy datasets (if needed)
 ├── README.md              # You're here!
 ```
+
+---
+
+## ✅ Topics Covered
+
+* Manual neuron and neural net construction
+* Forward/backward pass from scratch
+* Micrograd-style autograd
+* Training loops and optimization
+* Simple MLP implementation
+* Towards building your own mini deep learning framework
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo
+
+```bash
+git clone git@github.com:<your-username>/<repo-name>.git
+cd <repo-name>
+```
+
+2. Install dependencies (use your virtualenv or conda)
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Launch notebooks:
+
+```bash
+jupyter notebook
+```
+
+---
+
+## 🛠️ Dependencies
+
+* Python 3.10+
+* Jupyter Notebook / JupyterLab
+* Numpy, Matplotlib
+* (Optional) Graphviz for visualizing computation graphs
+
+```bash
+pip install numpy matplotlib graphviz
+```
+
+---
+
+## 🧠 Author
+
+* **Marco Denisi**
+  Exercises and implementations based on the lectures by [Andrej Karpathy](https://karpathy.ai/)
+
+---
+
+## 📜 License
+
+MIT — feel free to use and share.
